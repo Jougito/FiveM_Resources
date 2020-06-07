@@ -1,3 +1,3 @@
-#-# + Añadido registro de chat del serve
-#-# + Separación entre chat de jugadores y comandos administración
-#-# + Corrección de errores menores
+#-# + Corregido error que no permitia registrar todos los comandos
+#-# + Añadido sistema automático de Webhooks
+#-# + Corrección de fallo de seguridad
