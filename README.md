@@ -11,3 +11,4 @@ Datos de Versión y Changelog de mis scripts de FiveM
 <br>**+** JouDrogas - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouVentaNPC - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** Staff-Chat - https://github.com/Jougito/Staff-Chat
+<br>**+** Support-Chat - https://github.com/Jougito/Support-Chat
