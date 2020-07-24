@@ -4,7 +4,8 @@ Datos de Versión y Changelog de mis scripts de FiveM
 
 ## Recursos
 
-**+** Factions-Chat - https://github.com/Jougito/Factions-Chat
+**+** DiscordList - https://github.com/Jougito/DiscordList
+<br>**+** Factions-Chat - https://github.com/Jougito/Factions-Chat
 <br>**+** Factions-Warnings - https://github.com/Jougito/Factions-Warnings
 <br>**+** FakePlate - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** HiddenTracker - **[Privado](https://github.com/sponsors/Jougito)**
