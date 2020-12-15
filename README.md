@@ -12,6 +12,7 @@ Datos de Versión y Changelog de mis scripts de FiveM
 <br>**+** HumaneLabsRob - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouBot - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouDrogas - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouPurge - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouVentaNPC - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** PoliceExtras - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** Staff-Changer - https://github.com/Jougito/Staff-Changer
