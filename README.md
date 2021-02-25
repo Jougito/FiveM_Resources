@@ -18,3 +18,4 @@ Datos de Versión y Changelog de mis scripts de FiveM
 <br>**+** Staff-Changer - https://github.com/Jougito/Staff-Changer
 <br>**+** Staff-Chat - https://github.com/Jougito/Staff-Chat
 <br>**+** Support-Chat - https://github.com/Jougito/Support-Chat
+<br>**+** YachtRob - **[Privado](https://github.com/sponsors/Jougito)**
