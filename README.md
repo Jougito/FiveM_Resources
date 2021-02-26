@@ -4,7 +4,8 @@ Datos de Versión y Changelog de mis scripts de FiveM
 
 ## Recursos
 
-**+** DiscordList (Finished) - https://github.com/Jougito/DiscordList
+**+** CentralBankRob (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** DiscordList (Finished) - https://github.com/Jougito/DiscordList
 <br>**+** DrivingSchool (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** Factions-Chat (Finished) - https://github.com/Jougito/Factions-Chat
 <br>**+** Factions-Warnings (Finished) - https://github.com/Jougito/Factions-Warnings
