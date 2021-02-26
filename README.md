@@ -4,19 +4,19 @@ Datos de Versión y Changelog de mis scripts de FiveM
 
 ## Recursos
 
-**+** DiscordList - https://github.com/Jougito/DiscordList
-<br>**+** DrivingSchool - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** Factions-Chat - https://github.com/Jougito/Factions-Chat
-<br>**+** Factions-Warnings - https://github.com/Jougito/Factions-Warnings
-<br>**+** FakePlate - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** HiddenTracker - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** HumaneLabsRob - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** JouBot - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** JouDrogas - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** JouPurge - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** JouVentaNPC - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** PoliceExtras - **[Privado](https://github.com/sponsors/Jougito)**
-<br>**+** Staff-Changer - https://github.com/Jougito/Staff-Changer
-<br>**+** Staff-Chat - https://github.com/Jougito/Staff-Chat
-<br>**+** Support-Chat - https://github.com/Jougito/Support-Chat
-<br>**+** YachtRob - **[Privado](https://github.com/sponsors/Jougito)**
+**+** DiscordList (Finished) - https://github.com/Jougito/DiscordList
+<br>**+** DrivingSchool (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** Factions-Chat (Finished) - https://github.com/Jougito/Factions-Chat
+<br>**+** Factions-Warnings (Finished) - https://github.com/Jougito/Factions-Warnings
+<br>**+** FakePlate (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** HiddenTracker (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** HumaneLabsRob (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouBot (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouDrogas (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouPurge (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouVentaNPC (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** PoliceExtras (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** Staff-Changer (Finished) - https://github.com/Jougito/Staff-Changer
+<br>**+** Staff-Chat (Finished) - https://github.com/Jougito/Staff-Chat
+<br>**+** Support-Chat (Finished) - https://github.com/Jougito/Support-Chat
+<br>**+** YachtRob (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
