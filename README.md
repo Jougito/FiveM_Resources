@@ -12,6 +12,7 @@ Datos de Versión y Changelog de mis scripts de FiveM
 <br>**+** FakePlate (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** HiddenTracker (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** HumaneLabsRob (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
+<br>**+** JouAdmin (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouBot (Finished) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouDrogas (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
 <br>**+** JouPurge (Working in progress) - **[Privado](https://github.com/sponsors/Jougito)**
