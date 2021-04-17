@@ -1,0 +1,3 @@
+- Corregido error por la variable "decimal" cuando no estaba el Steam abierto
+- Añadido aviso si no esta establecido la API Key de Steam
+- Correcciones menores
