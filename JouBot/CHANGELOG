@@ -1,3 +1,4 @@
-- Corregido error por la variable "decimal" cuando no estaba el Steam abierto
-- Añadido aviso si no esta establecido la API Key de Steam
-- Correcciones menores
+- [Fixed] Fixed translations es.lua y en.lua
+- [Improved] Updated list of weapons and related functions
+- [Improved] Updated scripts header
+- [Improved] CodeStyle and minor fixes
